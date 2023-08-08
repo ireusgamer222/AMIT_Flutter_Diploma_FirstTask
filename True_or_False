@@ -1,0 +1,14 @@
+1-In Dart, variables declared using the final keyword can be reassigned a new value after
+initialization.      ANSWER: False
+
+2-Dart supports multiple inheritance for classes. ANSWER: False
+
+3-Dart's is keyword is used to check if an object is of a specific type. ANSWER: True
+
+4-Dart's List class is an example of an immutable collection. ANSWER: False
+
+5-Dart's super keyword is used to call a superclass's constructor.     ANSWER: False
+
+6-Dart's == operator compares the values of two objects for equality.     ANSWER:True
+
+7-Dart's try-catch block is used for handling synchronous exceptions only.   ANSWER: False
